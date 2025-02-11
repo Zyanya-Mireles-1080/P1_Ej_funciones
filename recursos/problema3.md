@@ -3,4 +3,4 @@ Que utilice 2 funciones una para capturar datos de la lista y otra para mostrar 
 
 Resultados
 
-![alt text](image-4.png)
+![alt text](image-5.png)
