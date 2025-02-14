@@ -15,7 +15,9 @@ void main() {
     12: 'Diciembre',
   };
   
+  //imprimir map completo
   print ('Meses del año: $mesesDelAnio');
+
   // Recorrer el Map y mostrar los meses
   print('Meses del año:');
   // usando forEach
